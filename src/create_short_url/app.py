@@ -36,7 +36,7 @@ def lambda_handler(event, context):
 
     return {
         'statusCode': 200,
-        'headers': {'Content-type': 'application/json'},
+        'headers': {'Content-Type': 'application/json'},
         'body': json.dumps({
             'short_code': code,
             'short_url': short_url,
