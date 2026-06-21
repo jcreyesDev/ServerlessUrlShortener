@@ -1,0 +1,18 @@
+{
+    "httpMethod": "POST",
+    "path": "/shorten",
+    "resource": "/shorten",
+    "headers": {
+        "Content-Type": "application/json",
+        "Host": "fe6puvop25.execute-api.us-east-1.amazonaws.com"
+    },
+    "pathParameters": null,
+    "queryStringParameters": null,
+    "requestContext": {
+        "stage": "Prod",
+        "httpMethod": "POST",
+        "resourcePath": "/shorten"
+    },
+    "body": "{\"url\": \"https://github.com/jcreyesDev\"}",
+    "isBase64Encoded": false
+}

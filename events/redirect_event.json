@@ -1,0 +1,19 @@
+{
+    "httpMethod": "GET",
+    "path": "/6UbkgP",
+    "resource": "/{code}",
+    "headers": {
+        "Host": "fe6puvop25.execute-api.us-east-1.amazonaws.com"
+    },
+    "pathParameters": {
+        "code": "6UbkgP"
+    },
+    "queryStringParameters": null,
+    "requestContext": {
+        "stage": "Prod",
+        "httpMethod": "GET",
+        "resourcePath": "/{code}"
+    },
+    "body": null,
+    "isBase64Encoded": false
+}
